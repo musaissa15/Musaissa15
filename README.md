@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👨🏼‍💻 Building [Habit Tracker]   
 🧠 Learning [React Testing], [Typescript][Typescript]  
-💜 Loving [React Testing], [Typescript] 
+💜 Loving [React Testing], [Typescript], [React], [Javascript]
 
 🏡 [Website][Website] **|**
 👔 [linkedin][linkedin]
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [React Testing]: https://testing-library.com/docs/react-testing-library/intro/
 [Website]: https://musasportfolio.netlify.app/
 [Habit Tracker]: https://github.com/musaissa15/habittracker
+[React]: https://reactjs.org/
+[Javascript]:https://www.javascript.com/
 
 ### Languages and Tools:
 
