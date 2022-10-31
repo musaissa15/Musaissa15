@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### My name is Musa and I am a graduate fullstack software develop and I love coding
+### My name is Musa and I am a graduate fullstack software developer and I love coding
 
 
 
