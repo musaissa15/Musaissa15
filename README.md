@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [Linkedin]: https://www.linkedin.com/in/musa-imad-issa-122114238/
 [React Testing]: https://testing-library.com/docs/react-testing-library/intro/
 [Website]: https://musasportfolio.netlify.app/
-[Dictonary]: 
+[Dictonary]: https://github.com/musaissa15/Dictonary-App-TS
 [React]: https://reactjs.org/
 [Javascript]:https://www.javascript.com/
 
