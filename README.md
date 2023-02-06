@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏼‍💻 Building [Habit Tracker]   
+👨🏼‍💻 Building [Dictonary]   
 🧠 Learning [React Testing], [Typescript][Typescript]  
 💜 Loving [React Testing], [Typescript], [React], [Javascript]
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [Linkedin]: https://www.linkedin.com/in/musa-imad-issa-122114238/
 [React Testing]: https://testing-library.com/docs/react-testing-library/intro/
 [Website]: https://musasportfolio.netlify.app/
-[Habit Tracker]: https://github.com/musaissa15/habittracker
+[Dictonary]: 
 [React]: https://reactjs.org/
 [Javascript]:https://www.javascript.com/
 
